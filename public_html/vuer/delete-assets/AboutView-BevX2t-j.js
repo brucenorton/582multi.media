@@ -1,1 +1,0 @@
-import{_ as o,c as s,a as t,o as a}from"./index-Cv-TGkWi.js";const n={},r={class:"about"};function c(i,e){return a(),s("div",r,e[0]||(e[0]=[t("h1",null,"This is a new and improved about page",-1)]))}const d=o(n,[["render",c]]);export{d as default};
