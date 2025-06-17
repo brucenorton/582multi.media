@@ -4,7 +4,7 @@
 
 <template>
   <main>
-    <h2>main street</h2>
+    <h2>HomeView.vue</h2>
 
   </main>
 </template>

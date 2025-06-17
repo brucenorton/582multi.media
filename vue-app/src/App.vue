@@ -1,12 +1,21 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
-import Nav from './components/Nav.vue'
+import Navigation from './components/Navigation.vue'
+import HeaderSection from './components/HeaderSection.vue'
+import Promo from './components/Promo.vue'
+import Vernissage from './components/Vernissage.vue'
+
 
 
 </script>
 
 <template>
-  <Nav />
+  <Navigation />
+  <HeaderSection />
+  <hr>
+  <Promo />
+  <hr>
+  <Vernissage />
   <RouterView />
 </template>
 
