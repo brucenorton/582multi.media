@@ -4,11 +4,11 @@
 
 <IfModule mod_rewrite.c>
     RewriteEngine On
-    RewriteBase /vue/
+    RewriteBase /delete-me/
     RewriteRule ^index\.html$ - [L]
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteRule . /vue/index.html [L]
+    RewriteRule . /delete-me/index.html [L]
 </IfModule>
 
 <IfModule mod_rewrite.c>
