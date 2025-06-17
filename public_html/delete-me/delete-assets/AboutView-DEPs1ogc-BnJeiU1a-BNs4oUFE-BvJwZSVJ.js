@@ -1,0 +1,1 @@
+import{C as t,d as a,f as n,p as o}from"./index-DwVIRCTc.js";const r={},e={class:"about"};function u(d,s){return n(),a("div",e,s[0]||(s[0]=[o("h1",null,"This is an about page",-1)]))}const f=t(r,[["render",u]]);export{f as default};
