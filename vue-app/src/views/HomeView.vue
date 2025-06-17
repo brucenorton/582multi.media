@@ -1,10 +1,10 @@
 <script setup>
-import Nav from '../components/Nav.vue'
+
 </script>
 
 <template>
   <main>
-    <h2>main</h2>
-    <Nav />
+    <h2>main street</h2>
+
   </main>
 </template>
